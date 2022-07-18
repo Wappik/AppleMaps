@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  AppleMaps
-//
-//  Created by Эдуард Дума on 18.07.2022.
-//
-
 import UIKit
 
 @main
